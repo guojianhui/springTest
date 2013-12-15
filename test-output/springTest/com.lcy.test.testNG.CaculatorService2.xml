@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.lcy.test.testNG.CaculatorService2" failures="0" tests="1" time="0.032" errors="0">
+  <properties/>
+  <testcase name="getSum" time="0.005" classname="com.lcy.test.testNG.CaculatorService2"/>
+</testsuite>

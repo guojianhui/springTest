@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="springTest">
+  <test verbose="2" name="com.lcy.test.testNG.CaculatorService2" annotations="JDK">
+    <classes>
+      <class name="com.lcy.test.testNG.CaculatorService2"/>
+    </classes>
+  </test>
+</suite>

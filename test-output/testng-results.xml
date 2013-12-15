@@ -1,0 +1,28 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="springTest">
+    <groups>
+    </groups>
+    <test name="com.lcy.test.testNG.CaculatorService2">
+      <class name="com.lcy.test.testNG.CaculatorService2">
+        <test-method status="PASS" signature="getSum(int, int)" name="getSum" duration-ms="5" started-at="2013-12-16T00:15:02Z" finished-at="2013-12-16T00:15:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="inti()" name="inti" is-config="true" duration-ms="4" started-at="2013-12-16T00:15:02Z" finished-at="2013-12-16T00:15:02Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
